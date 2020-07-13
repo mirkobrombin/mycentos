@@ -2,7 +2,7 @@
 
 ## epel-release
 ```
-yum install -y epel-release
+yum install epel-release
 ```
 
 ## elrepo
