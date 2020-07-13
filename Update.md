@@ -1,5 +1,9 @@
 # Update
 
+## epel-release
+```
+yum install -y epel-release
+```
 
 ## elrepo
 ```
