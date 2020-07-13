@@ -1,4 +1,11 @@
 # Vesta
+* Nginx Web Server
+* PHP-FPM Application Server
+* Exim Mail Server + ClamAV SpamAssassin
+* Dovecot POP3/IMAP Server
+* MariaDB Database Server
+* Vsftpd FTP Server
+* Iptables Firewall + Fail2Ban
 
 ## Install
 ```
